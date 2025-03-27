@@ -12,6 +12,7 @@
 </div>
 
 ###
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/wlahyani" alt="wlahyani's 42 stats" /></a>
 
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVnZWVtN2p2OGp1aXNudjAzYWxhNnkxNHl1eXB6c3hlandrNWl5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif"  />
 
