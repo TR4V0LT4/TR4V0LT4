@@ -3,10 +3,9 @@
 ###
 
 <div align="center" >
-  <p align="left">Hello World!!</p>
+  <p align="center">Hello World!!</p>
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/wlahyani" alt="wlahyani's 42 stats" /></a>
 </div>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TR4V0LT4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -15,11 +14,17 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVnZWVtN2p2OGp1aXNudjAzYWxhNnkxNHl1eXB6c3hlandrNWl5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVnZWVtN2p2OGp1aXNudjAzYWxhNnkxNHl1eXB6c3hlandrNWl5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -74,6 +79,7 @@
 <img src="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <br clear="both">
 
 <div align="center">
