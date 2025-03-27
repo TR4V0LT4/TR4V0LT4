@@ -4,6 +4,9 @@
 
 <p align="left">Hello World!!</p>
 
+<div align="center">
+  [![wlahyani's 42 stats](https://badge.mediaplus.ma/greenbinary/wlahyani)](https://github.com/oakoudad/badge42)
+<div>
 ###
 
 <div align="center">
@@ -12,7 +15,7 @@
 </div>
 
 ###
-[![wlahyani's 42 stats](https://badge.mediaplus.ma/greenbinary/wlahyani)](https://github.com/oakoudad/badge42)
+
 
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVnZWVtN2p2OGp1aXNudjAzYWxhNnkxNHl1eXB6c3hlandrNWl5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif"  />
 
