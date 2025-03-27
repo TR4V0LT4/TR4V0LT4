@@ -3,8 +3,9 @@
 ###
 
 <p align="left">Hello World!!</p>
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/wlahyani" alt="wlahyani's 42 stats" /></a>
-
+<div  align="center" >
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/wlahyani" alt="wlahyani's 42 stats" /></a>
+</div>
 ###
 
 <div align="center">
