@@ -69,13 +69,11 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/TR4V0LT4/count.svg?"  />
@@ -89,10 +87,10 @@
   <a href="https://ma.linkedin.com/in/walid-lahyani-4b051426b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="travolta9572" target="_blank">
+  <a href="https://discord.com/users/travolta9572" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="l3alam37@gmail.com" target="_blank">
+  <a href="mailto:l3alam37@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
