@@ -1,8 +1,8 @@
-<h1 align="center">𝐥'𝟑𝐚𝐥𝐚𝐦 𝐫𝐚𝟗𝐦𝐢 🌐</h1>
+<h1 align="left">𝐥'𝟑𝐚𝐥𝐚𝐦 𝐫𝐚𝟗𝐦𝐢 🌐</h1>
 
 ###
 
-<div align="center" >
+<div align="center" style="margin-bottom: 20px;" >
   <p align="center">Hello World!!</p>
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/wlahyani" alt="wlahyani's 42 stats" /></a>
 </div>
