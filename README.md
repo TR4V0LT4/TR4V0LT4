@@ -4,9 +4,8 @@
 
 <p align="left">Hello World!!</p>
 
-<div align="center">
-  [![wlahyani's 42 stats](https://badge.mediaplus.ma/greenbinary/wlahyani)](https://github.com/oakoudad/badge42)
-<div>
+
+ [![wlahyani's 42 stats](https://badge.mediaplus.ma/greenbinary/wlahyani)](https://github.com/oakoudad/badge42)
 ###
 
 <div align="center">
