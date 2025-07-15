@@ -1,15 +1,8 @@
-<h1 align="left" > 1𝟑𝐚𝐥𝐚𝐦 - 🌐</h1>
+<h1 align="left center" > Hell🌐 W🌐RLD</h1>
+
+
 
 ###
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=TR4V0LT4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TR4V0LT4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVnZWVtN2p2OGp1aXNudjAzYWxhNnkxNHl1eXB6c3hlandrNWl5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif"  />
 </div>
