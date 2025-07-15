@@ -1,6 +1,4 @@
-<h1 align="left center" > Hell🌐 W🌐RLD</h1>
-
-
+<h1 style="text-align: center;">Hell🌐 W🌐RLD</h1>
 
 ###
 <div align="center">
