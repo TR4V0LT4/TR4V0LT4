@@ -65,15 +65,6 @@
 
 <img src="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TR4V0LT4/count.svg?"  />
-</div>
-
-###
 
 <br clear="both">
 
