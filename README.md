@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-  <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVnZWVtN2p2OGp1aXNudjAzYWxhNnkxNHl1eXB6c3hlandrNWl5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CTX0ivSQbI78A/giphy.gif" alt="bob" title="gif" width="500"/>
 </div>
 
 ###
