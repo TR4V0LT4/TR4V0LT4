@@ -59,9 +59,9 @@
 
 ###
 
-<br clear="both">
+<br clear="both" >
 
-<img src="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/snake.svg" alt="Snake animation" />
+<img  align="center" src="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/snake.svg" alt="Snake animation" />
 
 
 <br clear="both">
