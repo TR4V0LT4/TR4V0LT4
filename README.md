@@ -58,8 +58,6 @@
 </div>
 
 ###
-
-<br clear="both" >
 <div align="center">
 <img  src="https://raw.githubusercontent.com/TR4V0LT4/TR4V0LT4/output/snake.svg" alt="Snake animation" />
 </div>
