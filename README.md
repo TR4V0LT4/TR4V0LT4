@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRrZmFoc3dpZ2ZnaWNhdXNlM3NzaHNqejhoZWtud28yaGI2MDVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPVTbiTORIopy/giphy.gif" alt="bob" title="gif" width="900" height="500"/> -->
   
-  <img src="meruem.gif" width="100%" height="400"  />
+  <img src="meruem.gif" width="100%" height="500"  />
 </div>
 
 ###
